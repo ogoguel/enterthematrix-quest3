@@ -1,0 +1,7 @@
+Unity_*/Library/
+Unity_*/Temp/
+Unity_*/TemLogsp/
+Unity_*/obj/
+.vs/
+*.csproj
+*.sln
