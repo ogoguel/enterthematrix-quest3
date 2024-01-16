@@ -19,9 +19,10 @@ Sample code to test on Oculus Quest 3 w/ pass-through
 The project has been strip down to only focus on the two core features
 * How to retrieve the playspace (using Oculus default Building Blocks) 
 * How to render the Matrix FX : everything is done in the shader
-* 
+*
 ## Limitations
 * Only the view of the portal from inside the portal is present. 
+* No switch from inside/outside view (check the app below)
 
 ## References
 * LinkedIn original post : https://www.linkedin.com/posts/oliviergoguel_meta-quest3-oculus-activity-7152998913229156352-v0X8?utm_source=share&utm_medium=member_desktop
